@@ -1,3 +1,5 @@
+<img src="https://github.com/arda-copur/arda-copur/blob/main/39Cg.gif" width="auto">
+
 ![](ages/banner.pn)
 
 
