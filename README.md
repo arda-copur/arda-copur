@@ -3,7 +3,6 @@
 ![](ages/banner.pn)
 
 
-- 🌱 I’m currently learning Dart, Flutter, Firebase 
 - 📫 How to reach me: ardacopur0@gmail.com 
 
 
