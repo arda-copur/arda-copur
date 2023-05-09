@@ -12,5 +12,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arda-copur&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=arda-copur)  
+ 
 
