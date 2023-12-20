@@ -1,5 +1,8 @@
 
-<h1 align="center">I'm 👋, Flutter Developer 👋</h1>
+<img src="https://media2.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=ecf05e47iz5zt3hd35nkk3c3f7s126vm6812sediwtlc1r3t&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="alt text" width="320" height="180">
+
+
+<h1 align="center">I'm Flutter Developer 👋</h1>
 - 📫 How to reach me **ardacopur0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
