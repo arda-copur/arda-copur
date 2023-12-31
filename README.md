@@ -3,7 +3,7 @@
 
 
 <h1 align="center">I'm Flutter Developer 👋</h1>
-- 📫 How to reach me **ardacopur0@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
