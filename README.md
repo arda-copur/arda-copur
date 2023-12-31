@@ -2,7 +2,7 @@
 <img src="https://media0.giphy.com/media/36otikFtpDJq8/giphy.gif?cid=ecf05e47gbvivoznoaom8hszgrsf070ckjzeqeks9yamq94i&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="alt text" width="520" height="320">
 
 
-<h1 align="center">I'm Flutter Developer 👋</h1>
+<h1 align="center">Flutter Developer 👨‍💻</h1>
 
 
 <h3 align="left">Connect with me:</h3>
