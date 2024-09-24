@@ -4,7 +4,7 @@
 
 <h1 align="center">Flutter Developer 👨‍💻</h1>
 
-I am developing mobile and web applications integrated with medical devices for use by doctors and patients with Flutter. I enjoy using Provider and BLOC. In my spare time, I share the applications I code here.
+I am developing mobile and web applications integrated with medical devices using Flutter for doctors and patients. My three favorite Flutter packages are probably Provider, BLOC, and Firebase. In my spare time, I am improving my skills in Java while also sharing the applications I code with Flutter here.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
