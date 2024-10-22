@@ -50,7 +50,3 @@
 
 ###
 
-https://github.com/arda-copur/arda-copur/blob/output/github-snake.gif
-
-
-
