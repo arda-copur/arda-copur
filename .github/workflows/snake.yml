@@ -1,0 +1,26 @@
+name: Generate Snake Animation
+
+on:
+  schedule: # Her gün saat 05:00 UTC'de çalışır
+    - cron: "0 5 * * *"
+  workflow_dispatch: # Manuel olarak çalıştırma
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      - name: Generate snake.svg
+        uses: Platane/snk@master
+        with:
+          github_user_name: elevation15  # Buraya GitHub kullanıcı adını ekledim
+          outputs: dist/snake.svg
+
+      - name: Push Snake Animation to the Output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
