@@ -50,6 +50,5 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://github.com/arda-copur/snk/blob/output/snake.svg" alt="Snake animation" />
+
