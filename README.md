@@ -1,4 +1,4 @@
-<h2 align="left">FLUTTER DEVELOPER</h2>
+<h2 align="left">MOBILE DEVELOPER</h2>
 
 ###
 
