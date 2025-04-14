@@ -1,4 +1,4 @@
-<h2 align="left">Flutter & Node.js Developer</h2>
+<h2 align="left">Flutter Developer</h2>
 
 ###
 
