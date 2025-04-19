@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Arda</h1>
+<h1 align="center">Fullstack Mobile Developer</h1>
 <h3 align="center">Fullstack Mobile Developer</h3>
 
 <p align="center">
@@ -15,7 +15,6 @@
   <strong>Mobile Development:</strong><br>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
   
   <strong>Backend:</strong><br>
   <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
@@ -68,6 +67,3 @@
   </a>
 </p>
 
-
-
-![Footer](https://raw.githubusercontent.com/arda-copur/arda-copur/main/assets/footer-wave.svg)
