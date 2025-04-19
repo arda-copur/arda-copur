@@ -1,4 +1,4 @@
-<h1 align="center">Fullstack Mobile Developer</h1>
+<h1 align="center">Fullstack Developer</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
