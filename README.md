@@ -41,7 +41,7 @@
 
 ---
 
-📝 **Latest Tech Posts**  
+📝 **Latest Posts**  
 <!-- BLOG-POST-LIST:START -->
 - [Flutter Uygulamanız Kendini İmha Etsin](https://medium.com/@ardacopur/flutter-uygulaman%C4%B1z-kendini-i%CC%87mha-etsin-5d6027deaf83)
 - [Flutter Projelerinde Native Kodun Gücünü Kullanma 2: Batarya Takibi ve Bildirim](https://medium.com/@ardacopur/flutter-projelerinde-native-kodun-g%C3%BCc%C3%BCn%C3%BC-kullanma-2-batarya-takibi-ve-bildirim-258dc5e13a63)
