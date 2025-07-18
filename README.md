@@ -34,7 +34,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
----
 
 📝 **Latest Posts**  
 <!-- BLOG-POST-LIST:START -->
@@ -43,7 +42,6 @@
 - [Node.js ile Gerçek Zamanlı Uygulamalar: Socket.IO](https://medium.com/@ardacopur/node-js-ile-ger%C3%A7ek-zamanl%C4%B1-uygulamalar-socket-io-de77f27f7097)
 <!-- BLOG-POST-LIST:END -->
 
----
 
 📫 **Connect With Me**
 
