@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Clean+Code;Cross-Platform/Native Android+Developer;Mobile+Solutions+Architect;BLOC+Provider+Mobx" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Clean+Code;Cross-Platform+Developer;Mobile+Solutions+Architect;BLOC+Provider+Mobx" alt="Typing SVG" />
   </a>
 </p>
 
