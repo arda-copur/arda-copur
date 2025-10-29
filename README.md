@@ -37,9 +37,9 @@
 
 📝 **Latest Posts**  
 <!-- BLOG-POST-LIST:START -->
-- [Flutter Uygulamanız Kendini İmha Etsin](https://medium.com/@ardacopur/flutter-uygulaman%C4%B1z-kendini-i%CC%87mha-etsin-5d6027deaf83)
+- [Flutter'da Uygulamaları Farklı Çözünürlüklerde Test Etmek](https://medium.com/@ardacopur/flutterda-uygulamalar%C4%B1-farkl%C4%B1-%C3%A7%C3%B6z%C3%BCn%C3%BCrl%C3%BCklerde-test-etmek-d63c4a7bdc3c)
+- [Flutter Projelerinde DeepSeek API Entegrasyonu](https://medium.com/@ardacopur/flutter-projelerinde-deepseek-api-entegrasyonu-21b99fd2cb4f)
 - [Flutter Projelerinde Native Kodun Gücünü Kullanma 2: Batarya Takibi ve Bildirim](https://medium.com/@ardacopur/flutter-projelerinde-native-kodun-g%C3%BCc%C3%BCn%C3%BC-kullanma-2-batarya-takibi-ve-bildirim-258dc5e13a63)
-- [Node.js ile Gerçek Zamanlı Uygulamalar: Socket.IO](https://medium.com/@ardacopur/node-js-ile-ger%C3%A7ek-zamanl%C4%B1-uygulamalar-socket-io-de77f27f7097)
 <!-- BLOG-POST-LIST:END -->
 
 
