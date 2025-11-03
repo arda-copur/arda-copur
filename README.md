@@ -30,8 +30,13 @@
   <img src="https://img.shields.io/badge/OneSignal-2496ED?style=for-the-badge&logo=onesignal&logoColor=white" />
   
   <strong>Tools:</strong><br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/DeepSeek-0F62FE?style=for-the-badge&logoColor=white&labelColor=0F62FE" />
+<img src="https://img.shields.io/badge/Claude-6C2DC7?style=for-the-badge&logo=anthropic&logoColor=white" />
+
 </p>
 
 
